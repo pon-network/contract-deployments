@@ -10,3 +10,5 @@
 | Reporter registry     |  0x518DF5FB855de47208F242DD25eA186F7972c170    |
 | Builder registry     |  0x829379808f8E6F9C0a16B8129D7fD2FBeafA08A8    |
 | Proposer registry     |  0xBdE736Fd937BEA0292D109879b2694A59e670D94    |
+
+Subgraph: https://thegraph.com/hosted-service/subgraph/bsn-eng/proof-of-neutrality
