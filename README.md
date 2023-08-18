@@ -5,10 +5,9 @@
 
 | Contract | Address |
 | -------- | -------- |
-| Factory address     |  0xEF02d286ad880E53AfdCdBdb92a7c89D70ecee7F    |
-| Payout pool     |  0xB32c5561Ef6EA573Cd567B1ca0796BaB65Dd4ec5    |
-| Reporter registry     |  0x518DF5FB855de47208F242DD25eA186F7972c170    |
-| Builder registry     |  0x829379808f8E6F9C0a16B8129D7fD2FBeafA08A8    |
-| Proposer registry     |  0xBdE736Fd937BEA0292D109879b2694A59e670D94    |
+| Payout pool     |   0xC74A620dd38e19B89395841D50e16D1e215C397e   |
+| Reporter registry     |    0x7Bd41aE3a7d6c66a55C94332689989A9842cC73A  |
+| Builder registry     |  0x00656DE73Ca420c3e576ac071DF096E1499D7939    |
+| Proposer registry     |   0x1643ec804d944Da97d90c013cBaCD1358Cce1bAF   |
 
 Subgraph: https://thegraph.com/hosted-service/subgraph/bsn-eng/proof-of-neutrality
