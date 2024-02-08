@@ -9,7 +9,7 @@
 | Builder registry     |   0xBC8C9B715f76D7b44fC0A195aDd1d113D9853C20   |
 | Proposer registry     |   0xF7F6D8F8b76E94379034d333f4B5FE1694A32D87   |
 
-Subgraph: https://thegraph.com/hosted-service/subgraph/pon-pbs/pon
+Subgraph: https://thegraph.com/hosted-service/subgraph/pon-network/proof-of-neutrality
 
 ## Goerli Deployment
 
@@ -20,6 +20,6 @@ Subgraph: https://thegraph.com/hosted-service/subgraph/pon-pbs/pon
 | Builder registry     |  0x00656DE73Ca420c3e576ac071DF096E1499D7939    |
 | Proposer registry     |   0x1643ec804d944Da97d90c013cBaCD1358Cce1bAF   |
 
-Subgraph: https://thegraph.com/hosted-service/subgraph/pon-pbs/pon-goerli
+Subgraph: https://thegraph.com/hosted-service/subgraph/pon-network/goerli-pon
 
 
