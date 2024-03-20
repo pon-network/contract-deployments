@@ -23,7 +23,7 @@ Subgraph: https://thegraph.com/hosted-service/subgraph/pon-network/proof-of-neut
 Subgraph: https://thegraph.com/hosted-service/subgraph/pon-network/goerli-pon
 
 
-## Goerli Deployment
+## Holesky Deployment
 
 | Contract | Address |
 | -------- | -------- |
