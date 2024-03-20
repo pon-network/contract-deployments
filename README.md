@@ -23,3 +23,8 @@ Subgraph: https://thegraph.com/hosted-service/subgraph/pon-network/proof-of-neut
 Subgraph: https://thegraph.com/hosted-service/subgraph/pon-network/goerli-pon
 
 
+## Goerli Deployment
+
+| Contract | Address |
+| -------- | -------- |
+| Proposer Registry | 0x33a12a1cdc00EE02976fE41509A4A053b9DC5555 |
